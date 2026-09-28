@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/shearstream",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shear numeric stream values, ranges, and human-readable units.",
+  "bin": {
+    "shearstream": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/shearstream.git"
+  },
+  "homepage": "https://theworker02.github.io/shearstream/",
+  "keywords": [
+    "shear",
+    "stream",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
